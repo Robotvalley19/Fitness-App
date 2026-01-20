@@ -8,8 +8,8 @@ Die App ist vollständig lokal und **browserbasiert**, speichert Daten in CSV-Da
 ## Features
 
 * **Profile erstellen und bearbeiten**: Name, Alter, Geschlecht, Größe, Start- und Zielgewicht.
-* **Trainingsplanung**: Auswahl von Trainingstagen und Trainingsfokus (Ganzkörper, Arme, Oberkörper, Bauch/Rücken, Beine/Po, Joggen, Trampolin).
-* **Gewichts- und BMI-Tracking**: Einfache Eingabe von Gewicht, automatische Berechnung von BMI und optionalen Kalorieninformationen.
+* **Trainingsplanung**: Auswahl von Trainingstagen und Trainingsfokus (Ganzkörper, Arme, Oberkörper, Bauch/Rücken, Beine/Po, Joggen, Trampolin, Radfahren und Yoga).
+* **Gewichts- und BMI-Tracking**: Einfache Eingabe von Gewicht und Trainingszeit automatische Berechnung von BMI und optionalen Kalorieninformationen.
 * **Dynamische Anzeige von Übungen**: Übersichtliche Darstellung der Übungen, abhängig vom Trainingsfokus.
 * **Interaktive Diagramme**: Verlauf von Gewicht und BMI visualisiert mit Chart.js.
 * **Animierter Hightech-Hintergrund**: Modernes, animiertes Linienmuster auf jeder Seite für ein futuristisches UI-Erlebnis.
